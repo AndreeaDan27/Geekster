@@ -52,5 +52,8 @@ This project also includes additional datasets [insert information about any oth
 
 ## 2. Use cases
 
-1. 
-2. 
+1. I want to know how long it will take me to get from one destination to the other   
+
+2. Some children don't know what they want for Christmas! Help me choose a gift for an undecisive child 
+
+3. I want to have my own Advent calendar with a movie recommendation for each day
