@@ -9,7 +9,7 @@ This project includes several datasets that are related to Santa and his request
 
 ### People
 
-The **people.xlsx** dataset contains the addresses (in longitude and latitude) of people with a certain name and date of birth.
+The **people.xlsx** dataset contains the addresses (in longitude and latitude) of people with a certain name and date of birth. Contains 5000 rows. 
 
 You can see a preview of data in the following image:
 
@@ -17,7 +17,7 @@ You can see a preview of data in the following image:
 
 ### Toy stores
 
-The **toy_stores.xlsx** dataset contains the toy name, color, toy store and location (in longitude and latitude) of a certain store.
+The **toy_stores.xlsx** dataset contains the toy name, color, toy store and location (in longitude and latitude) of a certain store.  Contains 5000 rows.  
 
 You can see a preview of data in the following image:
 
