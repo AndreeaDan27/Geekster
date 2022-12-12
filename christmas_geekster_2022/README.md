@@ -1,7 +1,9 @@
 # Christmas Geekster 2022
-Information and Data about the Geekster in CSU NL - Christmas Edition
+Information and Data about the Geekster in CSU NL - Christmas Edition.
 
-## Datasets
+Documents contains 2 sections: Datasets and Use cases
+
+## 1. Datasets
 
 This project includes several datasets that are related to Santa and his requests for this Christmas. The datasets are provided in different file formats and can be used for working on the given use cases or, optionally, creating new ones.
 
@@ -26,7 +28,7 @@ You can see a preview of data in the following image:
 
 This project also includes additional datasets [insert information about any other datasets included in the project]. For more information about these datasets, [insert instructions for accessing or working with the datasets].
 
-## Use cases
+## 2. Use cases
 
 1. 
 2. 
