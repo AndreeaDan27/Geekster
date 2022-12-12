@@ -22,6 +22,14 @@ You can see a preview of data in the following image:
 
 ![people.xlsx](data_snapshots/people.png)
 
+### Recipes
+
+The **recipes.json** dataset contains the Name, details and methods of different recipes. Contains 1617 objects. 
+
+You can see a preview of data in the following image:
+
+![recipes.json](data_snapshots/recipes.png)
+
 ### Toy stores
 
 The **toy_stores.xlsx** dataset contains the toy name, color, toy store and location (in longitude and latitude) of a certain store.  Contains 5000 rows.  
