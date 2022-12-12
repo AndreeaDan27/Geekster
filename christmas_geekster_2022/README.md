@@ -48,7 +48,8 @@ You can see a preview of data in the following image:
 
 ### Additional datasets
 
-This project also includes additional datasets [insert information about any other datasets included in the project]. For more information about these datasets, [insert instructions for accessing or working with the datasets].
+The folder **presents_pictures** also contains images of potential gifts. There are 32 images
+
 
 ## 2. Use cases
 
