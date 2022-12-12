@@ -12,7 +12,7 @@ The **christmas_movies.xlsx** contains title of the movie, release year, length 
 
 You can see a preview of data in the following image:
 
-![christmas_movies.xlsx](data_snapshots/christmas_movies.png)
+![christmas_movies.xlsx](data_snapshots/christmas_movies1.png)
 
 ### People
 
@@ -52,5 +52,8 @@ This project also includes additional datasets [insert information about any oth
 
 ## 2. Use cases
 
-1. 
-2. 
+1. I want to know how long it will take me to get from one destination to the other   
+
+2. Some children don't know what they want for Christmas! Help me choose a gift for an undecisive child 
+
+3. I want to have my own Advent calendar with a movie recommendation for each day
