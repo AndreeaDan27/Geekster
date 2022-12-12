@@ -36,7 +36,7 @@ The **world_cities_dataset.xlsx** contains city, country, city's latitude and lo
 
 You can see a preview of data in the following image:
 
-![world_cities_dataset.xlsx](data_snapshots/world_cities_dataset.png)
+![world_cities_dataset.xlsx](data_snapshots/world_cities.png)
 
 ### Additional datasets
 
