@@ -12,7 +12,7 @@ The **christmas_movies.xlsx** contains title of the movie, release year, length 
 
 You can see a preview of data in the following image:
 
-![christmas_movies.xlsx](data_snapshots/christmas_movies.png)
+![christmas_movies.xlsx](data_snapshots/christmas_movies1.png)
 
 ### People
 
