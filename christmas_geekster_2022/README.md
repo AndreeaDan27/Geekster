@@ -16,7 +16,7 @@ You can see a preview of data in the following image:
 
 ### People
 
-The **people.xlsx** dataset contains the addresses (in longitude and latitude) of people with a certain name and date of birth. Contains 5000 rows. 
+The **people.xlsx** dataset contains the addresses (in longitude and latitude) of people with a certain name and date of birth and the type of behaviour that they've had during the past year. Contains 5000 rows. 
 
 You can see a preview of data in the following image:
 
