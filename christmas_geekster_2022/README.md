@@ -53,8 +53,15 @@ The folder **presents_pictures** also contains images of potential gifts. There 
 
 ## 2. Use cases
 
-1. I want to know how long it will take me to get from one destination to the other   
+1.  I want to know how long it will take me to get from one destination to the other.
+2.	Some children don't know what they want for Christmas! Help me choose a gift for an undecisive child.
+3.	I want to have my own Advent calendar with a movie recommendation for each day, so that me and Ms. Santa can sip hot cocoa and watch cozy movies. 
+4.	I want to know which toy store is closest to a child, so that my reindeer fly efficiently. 
+5.	I would like to have the ability to talk to the children (e.g., queue-based app)
+6.	I want to have a virtual wish list manager so that I and my elves can keep track of the gifts that children around the world are asking for.
 
-2. Some children don't know what they want for Christmas! Help me choose a gift for an undecisive child 
 
-3. I want to have my own Advent calendar with a movie recommendation for each day
+### Resources
+1. https://patterns.greensoftware.foundation/
+2. https://sci-data.greensoftware.foundation/ 
+3. https://learn.microsoft.com/en-us/azure/architecture/framework/sustainability/sustainability-get-started
